@@ -8,7 +8,7 @@ body, h1, h2, h3, p, ul, li {
 
 /* Navigation Bar */
 nav {
-    background-color: #f2f2f2;
+    background-color: #fcf9f9;
     padding: 10px;
 }
 nav ul {
@@ -20,17 +20,18 @@ nav ul li {
 }
 nav ul li a {
     text-decoration: none;
-    color: #333;
+    color: #acd80c;
 }
 
 /* Header Section */
-header {
+header { 
+    background-color: #acd80c;
     text-align: center;
     padding: 50px 0;
 }
 header h1 {
     font-size: 36px;
-    color: #333;
+    color: #d6cdcd;
 }
 
 /* Main Content Area */
@@ -46,24 +47,24 @@ h2 {
     margin-bottom: 15px;
 }
 article {
-    background-color: #f9f9f9;
+    background-color: #fffbfb;
     padding: 20px;
     border-radius: 5px;
     margin-bottom: 15px;
 }
 article h3 {
     font-size: 18px;
-    color: #333;
+    color: #131313;
     margin-bottom: 10px;
 }
 article p {
-    color: #666;
+    color: #141414;
 }
 
 /* Footer */
 footer {
-    background-color: #333;
-    color: #fff;
+    background-color: #8b8181;
+    color: #f3e8e8;
     text-align: center;
     padding: 20px 0;
 }
